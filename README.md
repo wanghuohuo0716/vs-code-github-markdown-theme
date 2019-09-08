@@ -9,7 +9,7 @@
 ```json
 {
     "markdown.styles": [
-        "https://gitcdn.xyz/repo/aui/vs-code-github-markdown-theme/master/index.css"
+        "https://github.com/wanghuohuo0716/vs-code-github-markdown-theme/master/index.css"
     ]
 }
 ```
